@@ -20,7 +20,7 @@
 #### Getting started
 
 ```bash
-$ git clone 
+$ git clone https://github.com/roberto-reis/urna-eletronica.git
 ```
 
 ```bash
